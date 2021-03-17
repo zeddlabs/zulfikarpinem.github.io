@@ -1,1 +1,6 @@
-# ijuldev.github.io
+# My Personal Site
+
+# Built With
+- HTML
+- CSS
+- JavaScript
