@@ -471,7 +471,8 @@ img {
   .home-img {
     position: absolute;
     right: 1rem;
-    width: 350px;
+    bottom: 1rem;
+    width: 200px;
   }
   .home-img img {
     position: absolute;
@@ -482,8 +483,9 @@ img {
   .about-container,
   .skills-container,
   .portfolio-container,
-  .contact-container {
-    grid-template-columns: repeat(2, 1fr);
+  .contact-container,
+  .footer-container {
+    grid-template-columns: 1fr;
   }
   .about-subtitle,
   .skills-subtitle {
