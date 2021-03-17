@@ -470,8 +470,8 @@ img {
   }
   .home-img {
     position: absolute;
-    right: 1rem;
-    bottom: 1rem;
+    right: 2rem;
+    bottom: 0;
     width: 200px;
   }
   .home-img img {
