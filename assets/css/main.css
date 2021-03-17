@@ -505,12 +505,6 @@ img {
 
 @media screen and (max-width: 567px) {
   .home-img {
-    width: 275px;
-  }
-}
-
-@media screen and (max-width: 350px) {
-  .home-img {
     bottom: 3rem;
     width: 200px;
   }
